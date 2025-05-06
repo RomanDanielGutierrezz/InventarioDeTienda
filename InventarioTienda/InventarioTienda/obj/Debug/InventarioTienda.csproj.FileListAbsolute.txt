@@ -1,0 +1,7 @@
+C:\Users\Roman\source\repos\InventarioTienda\InventarioTienda\bin\Debug\InventarioTienda.exe.config
+C:\Users\Roman\source\repos\InventarioTienda\InventarioTienda\bin\Debug\InventarioTienda.exe
+C:\Users\Roman\source\repos\InventarioTienda\InventarioTienda\bin\Debug\InventarioTienda.pdb
+C:\Users\Roman\source\repos\InventarioTienda\InventarioTienda\obj\Debug\InventarioTienda.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\InventarioTienda\InventarioTienda\obj\Debug\InventarioTienda.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\InventarioTienda\InventarioTienda\obj\Debug\InventarioTienda.exe
+C:\Users\Roman\source\repos\InventarioTienda\InventarioTienda\obj\Debug\InventarioTienda.pdb
